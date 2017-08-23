@@ -1,6 +1,14 @@
 # ElasticSearch
-Overview technologie
+Technology Overview
 
 ---
 
-## L2
+- Architektura
+- Ukládání dat
+- Vyhledávání
+- Použití v architektuře IS
+
+---
+
+
+
