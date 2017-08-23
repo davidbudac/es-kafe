@@ -1,2 +1,3 @@
-# es-kafe
-Overview ElasticSearch pro Kafe (24.8.)
+# ES Kafe 24.8.
+Overview ElasticSearch pro Kafe 24.8.
+
